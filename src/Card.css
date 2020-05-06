@@ -1,0 +1,18 @@
+
+.Card {
+    border-radius: 3px;
+    padding: 40px 50px;
+    background-color: #fff;
+    box-shadow: 2px 2px 15px 1px;
+    text-align:center;
+    margin: 11% 33%;
+    color:#6AD58B;
+    font-size: 25px;
+}
+
+.Card .Flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+
